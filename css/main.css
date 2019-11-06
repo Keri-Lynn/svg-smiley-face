@@ -1,6 +1,5 @@
 .face {
   fill: gold;
-
 }
 
 .mouth {
@@ -8,7 +7,6 @@
   stroke: #000;
   stroke-width: 6px;
   stroke-linecap: round;
-
 }
 
 .left-eyebrow {
@@ -20,7 +18,7 @@
 .right-eyebrow {
   transform: rotate(100deg);
   transform-origin: 156px 82px;
-    transition: all .5s linear;
+  transition: all .5s linear;
 }
 
 .smiley:hover .left-eyebrow {
